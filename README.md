@@ -4,7 +4,7 @@
 
 Sphere Packing is an interactive web application that visualizes and arranges spheres using WebGL. The project aims to provide a simple yet effective user experience by leveraging modern browser features.
 
-![Sphere Packing Preview](https://via.placeholder.com/800x400?text=Sphere+Packing+Preview)  
+![Sphere Packing Preview](https://youtu.be/8WhKeXxaP7E)  
 
 ## Video Demo 🎥
 [![Watch the video](https://youtu.be/8WhKeXxaP7E)](https://youtu.be/8WhKeXxaP7E)
